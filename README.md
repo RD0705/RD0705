@@ -3,7 +3,7 @@
 Sou entusiasta de tecnologia, focado em desenvolvimento web e automação, com experiência prática em ambientes institucionais e forte interesse em construir soluções eficientes e bem estruturadas.
 
 - 🔭 Atualmente não atuo profissionalmente na área, mas estou em constante evolução técnica para alcançar esse objetivo  
-- 🌱 Estudando e aprimorando conhecimentos em **HTML, CSS, JavaScript e TypeScript**  
+- 🌱 Estudando e aprimorando conhecimentos em **HTML, CSS, JavaScript e TypeScript, NextJs, Java, C#**  
 - 💼 Experiência como **estagiário da Polícia Federal**, atuando com **Oracle APEX** e **SQL**, participando do desenvolvimento e manutenção de sistemas internos  
 - ⚙️ Experiência com **automação de processos utilizando n8n**, integrando APIs, fluxos de dados e tarefas repetitivas  
 - 🧠 Prática em **vibe coding**, combinando lógica, criatividade e produtividade para desenvolvimento rápido de soluções  
